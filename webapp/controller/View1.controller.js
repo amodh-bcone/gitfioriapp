@@ -6,6 +6,7 @@ sap.ui.define([
 	return Controller.extend("bcone.test.controller.View1", {
 		onInit: function () {
 
-		}
+		},
+		abc: function(){}
 	});
 });
