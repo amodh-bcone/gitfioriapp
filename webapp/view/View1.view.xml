@@ -5,6 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Button text="Press Me"></Button>
+						<Button text="Press Me"></Button>
 					</content>
 				</Page>
 			</pages>
