@@ -3,10 +3,14 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="{i18n>title}">
+<<<<<<< master
 					<content>
 						<Button text="Press Me"></Button>
 						<Button text="Press Me"></Button>
 					</content>
+=======
+					<content></content>
+>>>>>>> 7f92db0 3rd commit
 				</Page>
 			</pages>
 		</App>
